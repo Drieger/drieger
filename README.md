@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📫 How to reach me
----
+## 📫 How to reach me
 
 * **LinkedIn**: [in/daniel-beckert](https://www.linkedin.com/in/daniel-beckert/)
 * **Email**: [drbeckert@gmail.com](mailto://drbeckert@gmail.com)
