@@ -16,22 +16,8 @@ Here are some ideas to get you started:
 ### 📫 How to reach me
 ---
 
-<p>
-	<img
-		style="vertical-align: middle; width: 24px"
-		src="icon/linkedin.png"
-		alt="linkedin"
-	/>
-	<a href="https://www.linkedin.com/in/daniel-beckert/">in/daniel-beckert</a>
-</p>
-<p>
-	<img
-		style="vertical-align: middle; width: 24px"
-		src="icon/email.png"
-		alt="email"
-	/>
-	<a href="mailto://drbeckert@gmail.com">drbeckert@gmail.com</a>
-</p>
+* **LinkedIn**: [in/daniel-beckert]("https://www.linkedin.com/in/daniel-beckert/")
+* **Email**: [drbeckert@gmail.com]("mailto://drbeckert@gmail.com")
 
 
 
