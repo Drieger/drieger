@@ -18,7 +18,18 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-
 -->
+
+## 🚀 Projects
+Here are a few things I've been building lately. Feel free to browse my projects!
+
+* **[🪻 The famous Iris flower data set](https://github.com/Drieger/iris-dataset-eda)** <br />
+Trained several classification models (Decision Tree, Random Forest, SVM, etc.) on the classic iris dataset. Explored feature engineering and model evaluation.
+
+* **[🚲 Cyclistic Bike Share Data Analysis](https://github.com/Drieger/cyclistic-data-analysis)** <br/>
+This project analyzed historical bike-sharing data from Cyclistic, a bike-sharing company, to understand the differences in usage patterns between annual members and casual riders. The goal was to identify opportunities to convert occasional riders into annual members through targeted marketing strategies.
+
 ## 📫 How to reach me
 
 * **LinkedIn**: [in/daniel-beckert]("https://www.linkedin.com/in/daniel-beckert/")
