@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 ## 🚀 Projects
 Here are a few things I've been building lately. Feel free to browse my projects!
 
+* **[📉 Save my business - Churn prediction](https://github.com/Drieger/ml-churn-classification)** <br />
+This project aims to predict customer churn using machine learning, enabling proactive retention strategies. By analyzing customer data, a model will identify high-risk individuals, allowing for targeted interventions to maximize customer lifetime value.
+
 * **[🪻 The famous Iris flower data set](https://github.com/Drieger/iris-dataset-eda)** <br />
 Trained several classification models (Decision Tree, Random Forest, SVM, etc.) on the classic iris dataset. Explored feature engineering and model evaluation.
 
